@@ -8,3 +8,5 @@ class CustomUserModelViewSet(ModelViewSet):
     queryset = CustomUser.objects.all()
 
 
+
+
